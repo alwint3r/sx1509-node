@@ -1,0 +1,15 @@
+{
+  "name": "sx1509-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alwin Arrasyid <alwin.ridd@gmail.com>",
+  "description": "Library for leveraging SX1509 GPIO expander on a Raspberry Pi",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "i2c": "^0.2.3"
+  }
+}
